@@ -1,0 +1,9 @@
+{
+  "name": "Empréstimo de Cadeira de Rodas — Jardim Botânico",
+  "short_name": "Cadeiras JB",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf6fc",
+  "theme_color": "#672777",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }]
+}
